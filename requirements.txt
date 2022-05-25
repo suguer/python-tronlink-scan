@@ -1,0 +1,4 @@
+pycryptodomex
+base58
+ecdsa
+requests
